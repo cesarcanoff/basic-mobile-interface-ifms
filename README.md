@@ -62,6 +62,6 @@ Test interfaces developed in the Application Development classes.
 
     
 <details><summary>⭐ Screens ⭐</summary>
-<img style="width: 300px; margin-left: 10px;" src="https://i.imgur.com/yqgw3To.jpg" />
-<img style="width: 300px" src="https://i.imgur.com/Ru2BUk4.jpg" />                                                                        
+<img style="width: 300px; margin-left: 10px;" src="screenshots/login-screen.jpg" />
+<img style="width: 300px" src="screenshots/main-screen.jpg" />                                                                        
 </details>
